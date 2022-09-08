@@ -1,0 +1,15 @@
+{
+  "name": "blockchain1",
+  "version": "1.0.0",
+  "description": "Blockchain1 is the first blockchain created by Philip using Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Philip",
+  "license": "ISC",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "express": "^4.18.1"
+  }
+}
